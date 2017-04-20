@@ -1,5 +1,5 @@
-Solution to a problem from Hackerearth.
-Problem (Archit Rai):
+Solution to a greedy algorithm practice problem from Hackerearth.
+Problem (Protect the Cities by Archit Rai):
 There are N cities in Imaginary Land. The President of Imaginary Land uses the Cartesian coordinates. Each city is located at some point with integer co-ordinates. The President is very careful and concerned about the well-being of the citizens of his country.
 
 For that reason, he wants to create a boundary and cover all the cities inside that boundary. The boundary should in the shape of a square and should be parallel to the coordinate axes. Find the minimum area enclosed by the boundary such that all the cities are on or inside the boundary.
@@ -21,3 +21,9 @@ Constraints:
 1≤T≤5
 1≤N≤10^5
 −10^9≤xi,yi≤10^9.
+
+Time Limit:	1.0 sec(s) for each input file.
+Memory Limit:	256 MB
+Source Limit:	1024 KB
+Marking Scheme:	Marks are awarded if any testcase passes.
+Allowed Languages:	C, C++, Clojure, C#, D, Erlang, F#, Go, Groovy, Haskell, Java, Java 8, JavaScript(Rhino), JavaScript(Node.js), Lisp, Lisp (SBCL), Lua, Objective-C, OCaml, Octave, Pascal, Perl, PHP, Python, Python 3, R(RScript), Racket, Ruby, Rust, Scala, Scala 2.11.8, Swift, Visual Basic
